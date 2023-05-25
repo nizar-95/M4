@@ -1,0 +1,124 @@
+References
+"Agrawal, A., Horton, J., Lacetera, N., & Lyons, E. (2013). Digitization and the Contract Labor Market:  A 
+Research Agenda. National Bureau of Economic Research Working Paper Series, No. 19525 . 
+Agrawal, A. K., Lacetera, N., & Lyons, E. (2012). D oes Information Help Or Hinder Job Applicants from 
+Less Developed Countries in Online Markets? , NBER Working Paper. 
+Akerlof, G. A. (1970). The Market for ""Lemons"": Qua lity Uncertainty and the Market Mechanism. 
+Quarterly Journal of Economics, 84 (3), 488O500. 
+Altonji, J. G., & Pierret, C. R. (2001). Employer L earning and Statistical Discrimination. Quarterly 
+Journal of Economics, 116 (1), 313O350. 
+Andreoni, J., & Petrie, R. (2008). Beauty, gender a nd stereotypes: Evidence from laboratory experiment s. 
+Journal of Economic Psychology, 29 (1), 73O93. 
+Arrow, K. J. (1973). The Theory of Discrimination. In O. Ashenfelter & A. Rees (Eds.), Discrimination in 
+Labor Markets . Princeton, NJ: Princeton University Press. 
+Autor, D. H. (2001). Wiring the Labor Market. Journal of Economic Perspectives, 15 (1), 25O40. 
+Babcock, L., & Laschever, S. (2003). Women Don’t Ask: Negotiation and the Gender Divide : Princeton 
+University Press. 
+Bakos, J. Y. (1997). Reducing Buyer Search Costs: I mplications for Electronic Marketplaces. Management Economics and Value of IS 
+ 
+16 Thirty Fifth International Conference on Informatio n Systems, Auckland 2014 Science, 43 (12), 1676O1692. 
+Banker, R. D., & Hwang, I. (2008). Importance of Me asures of Past Performance: Empirical Evidence on 
+Quality of eOService Providers*. Contemporary Accounting Research, 25 (2), 307O337. 
+Becker, G. (1957). The Economics of Discrimination . Chicago: University of Chicago Press. 
+Booth, A. L., & Leigh, A. (2010). Do employers disc riminate by gender? A field experiment in femaleO
+dominated occupations. Economic Letters, 107 (2), 236O238. 
+Brynjolfsson, E., Hu, Y., & Smith, M. D. (2003). Co nsumer Surplus in the Digital Economy: Estimating 
+the Value of Increased Product Variety at Online Bo oksellers. Management Science, 49 (11), 1580O
+1596. 
+Brynjolfsson, E., & Smith, M. D. (2000). Frictionle ss Commerce? A Comparison of Internet and 
+Conventional Retailers. Management Science, 46 (4), 563O585. 
+Buchan, N. R., Croson, R. T. A., & Solnick, S. (200 8). Trust and gender: An examination of behavior an d 
+beliefs in the Investment Game. Journal of Economic Behavior & Organization, 68 (3O4), 466O476. 
+Caliendo, M., & Kopeinig, S. (2008). Some Practical  Guidance for the Implementation of Propensity Scor e 
+Matching. Journal of Economic Surveys, 22(1) , 31O72. 
+Chan, J., & Ghose, A. (2014). Internet's Dirty Secr et: Assessing the Impact of Online Intermediaries o n 
+HIV Transmission. MIS Quarterly, forthcoming . 
+Chellappa, R. K., Sin, R. G., & Siddarth, S. (2011) . Price Formats as a Source of Price Dispersion: A Study 
+of Online and Offline Prices in the Domestic U.S. A irline Markets. Information Systems Research, 
+22 (1), 83O98. 
+Darity, W. A., & Mason, P. L. (1998). Evidence on D iscrimination in Employment: Codes of Color, Codes 
+of Gender. Journal of Economic Perspectives, 12 (2), 63O90. 
+Dettling, L. (2013). Opting Back In: Home Internet Use and Female Labor Supply : Working Paper. 
+Eckel, C. C., & Grossman, P. J. (1998). Are Women L ess Selfish Than Men?: Evidence from Dictator 
+Experiments. The Economic Journal, 108 (448), 726O735. 
+Eckel, C. C., & Grossman, P. J. (2001). Chivalry an d solidarity in ultimatum games. Economic Inquiry, 
+39 (2), 171O188. 
+Gefen, D., Karahanna, E., & Straub, D. W. (2003). T rust and TAM in online shopping: an integrated 
+model. MIS Quarterly, 27 (1), 51O90. 
+Glick, P., Zion, C., & Nelson, C. (1988). What medi ates sex discrimination in hiring decisions? Journal of 
+Personality and Social Psychology, 55 (2), 178O186. 
+Gneezy, U., Niederle, M., & Rustichini, A. (2003). Performance in Competitive Environments: Gender 
+Differences. Quarterly Journal of Economics, 118 (3), 1049O1074. 
+Goldin, C., & Rouse, C. (2000). Orchestrating Impar tiality: The Impact of ""Blind"" Auditions on Female 
+Musicians. American Economic Review, 90 (4), 715O741. 
+Gorman, E. H. (2005). Gender Stereotypes, SameOGend er Preferences, and Organizational Variation in 
+the Hiring of Women: Evidence from Law Firms. American Sociology Review, 70 (4), 702O728. 
+Guadagni, P. M., & Little, J. D. C. (1983). A Logit  Model of Brand Choice Calibrated on Scanner Data. 
+Marketing Science, 2 (3), 203O238. 
+Hamner, W. C. (1974). Effects of bargaining strateg y and pressure to reach agreement in a stalemated 
+negotiation. Journal of Personality and Social Psychology, 30 (4), 458O467. 
+Hong, Y., & Pavlou, P. A. (2012). Are Global Online  Labor Markets Truly 'Flat'? Global Frictions and 
+Global Labor Arbitrage. Working Paper. Available at  
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id= 2371748. 
+Hong, Y., Wang, C., & Pavlou, P. A. (2013). How doe s Bid Visibility Matter in BuyerODetermined Auction s? 
+Comparing Open and Sealed Bid Auctions in Online La bor Markets., NET Institute working paper. 
+Available at: http://papers.ssrn.com/sol3/papers.cf m?abstract_id=2335669. 
+Horton, J. (2010). Online Labor Markets.  Paper presented at the Proceedings of the 6th Work shop on 
+Internet and Network Economics. 
+Huddy, L., & Terkildsen, N. (1993). Gender Stereoty pes and the Perception of Male and Female 
+Candidates. American Journal of Political Science, 37 (1), 119O147. 
+Ibarra, H. (1992). Homophily and Differential Retur ns: Sex Differences in Network Structure and Access  
+in an Advertising Firm. Administrative Science Quarterly, 37 (3), 422O447. 
+Jawahar, I. M., & Mattsson, J. (2005). Sexism and B eautyism Effects in Selection as a Function of Self O
+Monitoring Level of Decision Maker. Journal of Applied Psychology, 90 (3), 563O573. 
+Kray, L. J., Galinsky, A. D., & Thompson, L. (2002) . Reversing the Gender Gap in Negotiations: An 
+Exploration of Stereotype Regeneration. Organizational Behavior and Human Decision Processe s, Hiring Biases in Online Labor Markets 
+Thirty Fifth International Conference on Informatio n Systems, Auckland 2014 17  87 (2), 386O410. 
+Lin, M., & Goes, P. (2012). Does Information Really  ""Unravel""? Understanding Factors That Motivate 
+Sellers to Seek ThirdOParty Certifications in an On line Labor Market. University of Arizona working 
+paper. 
+Lipshitz, R., & Strauss, O. (1997). Coping with Unc ertainty: A Naturalistic DecisionOMaking Analysis. 
+Organizational Behavior and Human Decision Processe s, 69 (2), 149O163. 
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (199 5). An integrative model of organizational trust. 
+Academy of Management Review, 20 (3), 709O734. 
+McFadden, D. (1973). Conditional logit analysis of qualitative choice behavior. In Frontiers in 
+Econometrics  (pp. 105O142). 
+Neumark, D., Bank, R. J., & Van Nort, K. D. (1996).  Sex Discrimination in Restaurant Hiring: An Audit 
+Study. Quarterly Journal of Economics, 111 (3), 915O941. 
+Niederle, M., & Vesterlund, L. (2007). Do Women Shy  Away From Competition? Do Men Compete Too 
+Much? Quarterly Journal of Economics, 122 (3), 1067O1101. 
+Olian, J. D., Schwab, D. P., & Haberfeld, Y. (1988) . The impact of applicant gender compared to 
+qualifications on hiring recommendations: A metaOan alysis of experimental studies. Organizational 
+Behavior and Human Decision Processes, 41 (2), 180O195. 
+Orbell, J., Dawes, R., & SchwartzOShea, P. (1994). Trust, social categories, and individuals: The case  of 
+gender. Motivation and Emotion, 18 (2), 109O128. 
+Overby, E., & Jap, S. (2009). Electronic and Physic al Market Channels: A Multiyear Investigation in a 
+Market for Products of Uncertain Quality. Management Science, 55 (6), 940O957. 
+Pager, D., Western, B., & Bonikowski, B. (2009). Di scrimination in a LowOWage Labor Market: A Field 
+Experiment. American Sociology Review, 74 (5), 777O799. 
+Pallais, A. (2012). Inefficient Hiring in Entry-Level Labor Markets : Working Paper. 
+Pavlou, P. A., & Gefen, D. (2004). Building Effecti ve Online Marketplaces with InstitutionOBased Trust . 
+Information Systems Research, 15 (1), 37O59. 
+Pavlou, P. A., Liang, H., & Xue, Y. (2007). Underst anding and mitigating uncertainty in online exchang e 
+relationships: a principalO agent perspective. MIS Quarterly, 31 (1), 105O136. 
+Phelps, E. (1972). The Statistical Theory of Racism  and Sexism. The American Economic Review, 62 (4), 
+659O661. 
+Pope, D. G., & Sydnor, J. R. (2009). What's in a Pi cture?: Evidence of Discrimination from Prosper.com . 
+Journal of Human Resources, 46 (1), 53O92. 
+Riach, P., & Rich, J. (1987). Testing for Sexual Di scrimination in the Labour Market. Australian Economic 
+Papers, 26 (49), 165O178. 
+Riach, P. A., & Rich, J. (2002). Field Experiments of Discrimination in the Market Place. The Economic 
+Journal, 112 (483), F480OF518. 
+Simon, H. A. (1979). Rational Decision Making in Bu siness Organizations. The American Economic 
+Review, 69 (4), 493O513. 
+Snir, E. M., & Hitt, L. M. (2003). Costly Bidding i n Online Markets for IT Services. Management Science, 
+49 (11), 1504O1520. 
+Stanton, T., & Thomas, C. (2012). Landing the First Job: The Value of Intermediaries in Online Hiring : 
+Working Paper. 
+Swim, J., Borgida, E., Maruyama, G., & Myers, D. G.  (1989). Joan McKay Versus John McKay: Do Gender 
+Stereotypes Bias Evaluations? Psychological Bulletin, 105 (3), 409O429. 
+Tannen, D. (1990). You Just Don't Understand: Women and Men in Convers ation . New York: Ballantine. 
+Terborg, J. R. (1977). Women in management: A resea rch review. Journal of Applied Psychology, 62 (2), 
+647O664. 
+Yoganarasimhan, H. (2013). The Value of Reputation in an Online Freelance Marketplace. Marketing 
+Science, 32 (6), 860O891. "
